@@ -89,20 +89,7 @@ footer {
     margin-bottom: 0;
   }
 
-  .step-num {
-    position: absolute;
-    top: 0;
-    left: 0;
-    background-color: #ff9a4b;
-    color: #fff;
-  }
-
-  .title {
-    margin: 15px 0 5px;
-  }
-
   footer {
-    height: 50px;
-    background-color: #aaaaaa;
+    width: 100%;
   }
 }
